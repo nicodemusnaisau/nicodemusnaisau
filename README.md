@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicodemusnaisau
-- 👀 I’m interested in Data Analsyt
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning how to learn
 <!---
 nicodemusnaisau/nicodemusnaisau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
