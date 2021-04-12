@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to learn
 
 <a href="https://github.com/nicodemusnaisau">
- <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nicodemusnaisau&show_icons=true&include_all_commits=true&theme=algolia" />
-  <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nicodemusnaisau&layout=compact&theme=algolia" />
+ <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nicodemusnaisau&show_icons=true&include_all_commits=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nicodemusnaisau&layout=compact&theme=default" />
 </a>
 
 
