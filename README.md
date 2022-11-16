@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicodemusnaisau
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Backend Dev & Analyst
 - 🌱 I’m currently learning how to learn
 
 <a href="https://github.com/nicodemusnaisau">
